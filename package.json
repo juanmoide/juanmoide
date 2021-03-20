@@ -1,0 +1,29 @@
+{
+  "name": "juanmoide-github-profile",
+  "version": "1.0.0",
+  "description": "✨ Reasons you have to love me ✨",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmoide/juanmoide.git"
+  },
+  "keywords": [
+    "juanmoide",
+    "github readme",
+    "github profile",
+    "profile",
+    "readme"
+  ],
+  "author": "juanmoide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmoide/juanmoide/issues"
+  },
+  "homepage": "https://github.com/juanmoide/juanmoide#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
