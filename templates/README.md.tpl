@@ -18,7 +18,7 @@ I'm trying to keep my head up writting code and doing some kind and funny videos
 
 <div align="left">
 
-## Objectives to achieved for now
+## Goals to achieve for now
 
 * 🦥 Launch a first release of [Sloth Components](https://github.com/juanmoide/sloth)
 * 🎥 Be more active uploading content into social media
